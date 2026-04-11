@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "***",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "minecraft:deepslate" },
+    "*": { "item": "minecraft:gold_ingot" }
+  },
+  "result": {
+    "id": "minecraft:deepslate_gold_ore",
+    "count": 2
+  }
+}

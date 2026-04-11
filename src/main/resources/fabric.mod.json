@@ -3,13 +3,13 @@
 	"id": "more-recipes",
 	"version": "${version}",
 	"name": "more-recipes",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "这里添加了一些原版没有的配方",
 	"authors": [
-		"Me!"
+		"KneeDie"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/KneeDie/more-recipes"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/more-recipes/icon.png",
@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"top.zyhy.morerecipes.MorerecipesDataGenerator"
+		],
+		"client": [
+			"top.zyhy.morerecipes.client.MorerecipesClient"
 		]
 	},
 	"mixins": [

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "***",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "minecraft:deepslate" },
+    "*": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "id": "minecraft:deepslate_diamond_ore",
+    "count": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "***",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "minecraft:stone" },
+    "*": { "item": "minecraft:gold_ingot" }
+  },
+  "result": {
+    "id": "minecraft:gold_ore",
+    "count": 2
+  }
+}

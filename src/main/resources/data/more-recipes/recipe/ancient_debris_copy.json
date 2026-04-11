@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "%*%",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "minecraft:netherrack" },
+    "*": { "item": "minecraft:netherite_ingot" },
+    "%": { "item": "minecraft:diamond_block" }
+  },
+  "result": {
+    "id": "minecraft:ancient_debris",
+    "count": 5
+  }
+}
